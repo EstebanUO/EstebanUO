@@ -1,4 +1,4 @@
-Hola, me llamo Esteban. Mucho gusto!!
+Hola, me llamo Esteban.
 
 <div align="center">
   <a href="https://github.com/EstebanUO">
