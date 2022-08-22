@@ -1,5 +1,3 @@
-Hola, me llamo Esteban.
-
 <div align="center">
   <a href="https://github.com/EstebanUO">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EstebanUO&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
